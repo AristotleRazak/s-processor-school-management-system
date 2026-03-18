@@ -186,7 +186,7 @@ Expected income vs Actual income
 
 Helps school know financial health
 
-### 🧩 4. Daily Income Analytics
+🧩 4. Daily Income Analytics
 function getTodayPayments(students, todayDate) {
   return students.filter(student => student.lastPaymentDate === todayDate);
 }
@@ -206,7 +206,7 @@ function generateFinanceRemark(student) {
   }
   return "No payment made. Immediate attention needed.";
 }
-🧩 6. Flag Suspicious Payments
+### 🧩 6. Flag Suspicious Payments
 function detectAnomalies(student) {
   if (student.amountPaid > student.totalFees) {
     return "Overpayment detected";

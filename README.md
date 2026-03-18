@@ -49,23 +49,22 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
 
-🎯 What It Will Do
-
-s-processor will automatically:
-
-⚠️ Detect students who haven’t paid fees
-
-📉 Show students with low payments
-
-📊 Predict expected income
-
-🚨 Flag unusual payments (too low / too high)
-
-📅 Show daily, weekly, monthly trends
-
 ![Dashboard](dashboard_2.png)
 ![Accounting](accounting_dashboard.png)
 ![Reports](report.jpeg)
+
+
+
+### 🎯 What It Will Do
+
+s-processor will automatically:
+
+_ ⚠️ Detect students who haven’t paid fees
+_ 📉 Show students with low payments
+_ 📊 Predict expected income
+_ 🚨 Flag unusual payments (too low / too high)
+_ 📅 Show daily, weekly, monthly trends
+
 
   ### 🛠️ Tech Stack
 

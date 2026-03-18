@@ -34,6 +34,28 @@ The system provides:
 - 🧑‍🎓 Student information
 - 🏫 Class management
 
+
+
+📊 Main Dashboard
+
+The S-Processor dashboard provides quick access to all core modules of the system.
+
+📄 Show Exams Report – View student academic performance
+
+💰 Accounting – Manage school finances
+
+🧾 Collection Sheets – Track daily payments
+
+🧑‍🎓 Student Information – Access student records
+
+🏫 All Class Information – View class-level data
+
+🏠 Show Houses – Manage student grouping (houses)
+
+💡 Designed for simplicity — users can navigate the system without technical knowledge.
+
+
+
   ### 🛠️ Tech Stack
 
 - Frontend: (e.g., React / HTML / CSS / JavaScript)

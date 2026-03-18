@@ -33,3 +33,19 @@ The system provides:
 - 📋 Collection sheets
 - 🧑‍🎓 Student information
 - 🏫 Class management
+
+  🛠️ Tech Stack
+
+-Frontend: (e.g., React / HTML / CSS / JavaScript)
+-Backend: (e.g., Node.js / Express)
+-Database: (e.g., MongoDB / MySQL)
+-AI Integration: (e.g., OpenAI API or custom logic)
+-Other Tools: Git, REST APIs
+
+🧠 How It Works 
+
+1.Admin inputs student and financial data
+2.System stores data in the database
+3.Accounting module calculates totals and balances
+4.AI module analyzes student performance
+5.System generates report cards with automated remarks

@@ -101,6 +101,16 @@ Example: GHC 570.00 total collected for Basic 8
 - ✅ Class-based financial summaries
 - ✅ Easy auditing and transparency
 
+### Payment Navigation System
+
+The system includes a guided flow for managing payments:
+
+- 💳 Pay Fees – Record new payments
+- 📊 Show All Fees – View all transactions
+- 📅 Show Fees Paid Today – Daily tracking
+- 🏫 Show Fees Per Class – Class-level breakdown
+
+
 🧠 How It Works 
 
 1. Admin inputs student and financial data

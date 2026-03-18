@@ -73,6 +73,25 @@ Key Functions:
 - Track total income per student and class
 
 
+### 📋 Fee Collection Report (Analytics View)
+
+The system generates detailed financial reports like this:
+
+Data Included:
+
+- 📅 Date of payment
+- 🏫 Class (e.g., Basic 8, Basic 9)
+- 👨‍🎓 Student names
+- 💵 Last payment made
+- 💰 Total amount paid
+- ⚖️ Remaining balance
+- 🧾 Receipt number
+
+Example Insight:
+
+Total income for a class is automatically calculated
+
+Example: GHC 570.00 total collected for Basic 8
 
 
 🧠 How It Works 

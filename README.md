@@ -5,6 +5,7 @@ OR
 
 
 S-Processor(SP) is a school management application designed to simplify school accounting and student reporting. It helps schools manage finances accurately, reduce errors, and automatically generate student reports with AI-powered remarks.
+
 S-Processor means School Processor(School Processing System) in short SP.
 
 🎯 Built for school administrators, accountants, and teachers

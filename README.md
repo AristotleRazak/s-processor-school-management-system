@@ -13,7 +13,7 @@ S-Processor is a school management application designed to simplify school accou
 🤖 Generates intelligent student report comments using AI
 
 
-## 🚀 Features
+### 🚀 Features
 
 - 💰 Fee tracking and accounting
 - 🧾 Automatic balance calculation
@@ -24,7 +24,7 @@ S-Processor is a school management application designed to simplify school accou
 
 ---
 
-## 🖥️ Dashboard & Analytics
+### 🖥️ Dashboard & Analytics
 
 The system provides:
 
@@ -41,7 +41,6 @@ The system provides:
 The S-Processor dashboard provides quick access to all core modules of the system.
 
 - 📄 Show Exams Report – View student academic performance
-
 - 💰 Accounting – Manage school finances
 - 🧾 Collection Sheets – Track daily payments
 - 🧑‍🎓 Student Information – Access student records

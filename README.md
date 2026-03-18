@@ -51,7 +51,7 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 
 ![Dashboard](dashboard_2.png)
 ![Accounting]
-![Reports]
+![Reports](report.jpeg)
 
   ### 🛠️ Tech Stack
 

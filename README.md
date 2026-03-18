@@ -36,21 +36,21 @@ The system provides:
 
 
 
-📊 Main Dashboard
+### 📊 Main Dashboard
 
 The S-Processor dashboard provides quick access to all core modules of the system.
 
-📄 Show Exams Report – View student academic performance
+- 📄 Show Exams Report – View student academic performance
 
-💰 Accounting – Manage school finances
+- 💰 Accounting – Manage school finances
 
-🧾 Collection Sheets – Track daily payments
+- 🧾 Collection Sheets – Track daily payments
 
-🧑‍🎓 Student Information – Access student records
+- 🧑‍🎓 Student Information – Access student records
 
-🏫 All Class Information – View class-level data
+- 🏫 All Class Information – View class-level data
 
-🏠 Show Houses – Manage student grouping (houses)
+- 🏠 Show Houses – Manage student grouping (houses)
 
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
 

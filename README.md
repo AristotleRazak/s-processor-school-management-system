@@ -34,13 +34,15 @@ The system provides:
 - 🧑‍🎓 Student information
 - 🏫 Class management
 
-  🛠️ Tech Stack
+  ### 🛠️ Tech Stack
 
--Frontend: (e.g., React / HTML / CSS / JavaScript)
--Backend: (e.g., Node.js / Express)
--Database: (e.g., MongoDB / MySQL)
--AI Integration: (e.g., OpenAI API or custom logic)
--Other Tools: Git, REST APIs
+- Frontend: (e.g., React / HTML / CSS / JavaScript)
+- Backend: (e.g., Node.js / Express)
+- Database: (e.g., MongoDB / MySQL)
+- AI Integration: (e.g., OpenAI API or custom logic)
+- Other Tools: Git, REST APIs
+
+
 
 🧠 How It Works 
 

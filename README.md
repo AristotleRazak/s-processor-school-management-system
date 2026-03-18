@@ -49,9 +49,9 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
 
-![Dashboard]([./screenshots/](./dashboard 2.png)
-![Accounting](https://github.com/AristotleRazak/s-processor-school-management-system/dashboard 2.png)
-![Reports](https://github.com/AristotleRazak/s-processor-school-management-system/dashboard 2.png)
+![Dashboard](./dashboard 2.png)
+![Accounting]
+![Reports]
 
   ### 🛠️ Tech Stack
 

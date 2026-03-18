@@ -65,6 +65,22 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 - Other Tools: Git, REST APIs
 
 
+### 💰 Accounting & Fee Management
+
+The accounting module helps eliminate errors in school fee tracking.
+
+Key Functions:
+
+- Record student payments
+
+- Automatically calculate balances
+
+- Generate receipts
+
+- Track total income per student and class
+
+
+
 
 🧠 How It Works 
 

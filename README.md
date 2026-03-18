@@ -56,6 +56,6 @@ The system provides:
 
 
    📞 Contact
-
-Your name or handle
++233 54 298 6678
+[Company name] Aristo Embedded Software Development Consortium
 [Email or GitHub profile](https://github.com/AristotleRazak)

@@ -45,7 +45,11 @@ The system provides:
 🧠 How It Works 
 
 1.Admin inputs student and financial data
+
 2.System stores data in the database
+
 3.Accounting module calculates totals and balances
+
 4.AI module analyzes student performance
+
 5.System generates report cards with automated remarks

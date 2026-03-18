@@ -93,6 +93,14 @@ Total income for a class is automatically calculated
 Example: GHC 570.00 total collected for Basic 8
 
 
+### Smart Fee Tracking Features
+
+- ✅ Real-time balance calculation
+- ✅ Prevents under/over payment errors
+- ✅ Daily payment tracking
+- ✅ Class-based financial summaries
+- ✅ Easy auditing and transparency
+
 🧠 How It Works 
 
 1. Admin inputs student and financial data

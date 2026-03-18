@@ -54,8 +54,23 @@ The system provides:
 
 5. System generates report cards with automated remarks
 
+🙋 FAQ
 
-   📞 Contact
-+233 54 298 6678
-[Company name] Aristo Embedded Software Development Consortium
-[Email or GitHub profile](https://github.com/AristotleRazak)
+Q: Who can use S-Processor?
+A: Schools, teachers, and administrators managing student data and finances.
+
+Q: Does it require internet?
+A: Depends on deployment (local or cloud-based) but can work 85% completely offline.
+
+Q: Can AI remarks be customized?
+A: Yes, developers can modify the logic or integrate advanced AI.
+
+
+
+📞 Contact
+
+Developer: Aristo Embedded Software Development Consortium
+
+GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
+
+

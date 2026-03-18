@@ -146,6 +146,90 @@ Q: Can AI remarks be customized?
 A: Yes, developers can modify the logic or integrate advanced AI.
 
 
+### 🧩 1. Detect Unpaid Students
+✅ Logic
+function getUnpaidStudents(students) {
+  return students.filter(student => student.amountPaid === 0);
+}
+### 💡 What It Does
+
+Finds all students who haven’t paid anything
+
+Helps school follow up quickly
+
+### 🧩 2. Detect Students with Balance
+function getStudentsWithBalance(students) {
+  return students.filter(student => student.amountPaid < student.totalFees);
+}
+### 💡 Insight
+
+Shows who still owes money
+
+Can be used to send reminders
+
+### 🧩 3. Predict Expected Income
+function calculateExpectedIncome(students) {
+  return students.reduce((total, student) => {
+    return total + student.totalFees;
+  }, 0);
+}
+function calculateActualIncome(students) {
+  return students.reduce((total, student) => {
+    return total + student.amountPaid;
+  }, 0);
+}
+### 💡 Insight
+
+Compare:
+
+Expected income vs Actual income
+
+Helps school know financial health
+
+### 🧩 4. Daily Income Analytics
+function getTodayPayments(students, todayDate) {
+  return students.filter(student => student.lastPaymentDate === todayDate);
+}
+### 💡 Insight
+
+Shows how much was collected today
+
+Useful for daily reporting
+
+### 🧩 5. AI Remark for Financial Status
+function generateFinanceRemark(student) {
+  if (student.amountPaid === student.totalFees) {
+    return "Fees fully paid. Excellent compliance.";
+  }
+  if (student.amountPaid > 0) {
+    return "Partial payment made. Follow-up required.";
+  }
+  return "No payment made. Immediate attention needed.";
+}
+🧩 6. Flag Suspicious Payments
+function detectAnomalies(student) {
+  if (student.amountPaid > student.totalFees) {
+    return "Overpayment detected";
+  }
+  if (student.amountPaid < 0) {
+    return "Invalid payment";
+  }
+  return "Normal";
+}
+### 📊 Example Output (AI Insight)
+{
+  totalStudents: 100,
+  unpaidStudents: 25,
+  partiallyPaid: 50,
+  fullyPaid: 25,
+  expectedIncome: 25000,
+  actualIncome: 15000,
+  message: "Collection rate is low. Follow-up needed."
+}
+
+
+
+
 
 📞 Contact
 

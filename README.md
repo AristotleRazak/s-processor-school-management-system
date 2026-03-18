@@ -53,3 +53,9 @@ The system provides:
 4. AI module analyzes student performance
 
 5. System generates report cards with automated remarks
+
+
+   📞 Contact
+
+Your name or handle
+[Email or GitHub profile](https://github.com/AristotleRazak)

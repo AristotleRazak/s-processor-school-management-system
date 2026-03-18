@@ -43,13 +43,9 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 - 📄 Show Exams Report – View student academic performance
 
 - 💰 Accounting – Manage school finances
-
 - 🧾 Collection Sheets – Track daily payments
-
 - 🧑‍🎓 Student Information – Access student records
-
 - 🏫 All Class Information – View class-level data
-
 - 🏠 Show Houses – Manage student grouping (houses)
 
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
@@ -72,11 +68,8 @@ The accounting module helps eliminate errors in school fee tracking.
 Key Functions:
 
 - Record student payments
-
 - Automatically calculate balances
-
 - Generate receipts
-
 - Track total income per student and class
 
 
@@ -85,13 +78,9 @@ Key Functions:
 🧠 How It Works 
 
 1. Admin inputs student and financial data
-
 2. System stores data in the database
-
 3. Accounting module calculates totals and balances
-
 4. AI module analyzes student performance
-
 5. System generates report cards with automated remarks
 
 🙋 FAQ

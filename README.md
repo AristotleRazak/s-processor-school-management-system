@@ -150,9 +150,11 @@ A: Yes, developers can modify the logic or integrate advanced AI.
 
 ### 🧩 1. Detect Unpaid Students
 ✅ Logic
+```javascript
 function getUnpaidStudents(students) {
   return students.filter(student => student.amountPaid === 0);
 }
+```
 ### 💡 What It Does
 
 Finds all students who haven’t paid anything
@@ -160,9 +162,11 @@ Finds all students who haven’t paid anything
 Helps school follow up quickly
 
 ### 🧩 2. Detect Students with Balance
+```javascript
 function getStudentsWithBalance(students) {
   return students.filter(student => student.amountPaid < student.totalFees);
 }
+```
 ### 💡 Insight
 
 Shows who still owes money
@@ -170,6 +174,7 @@ Shows who still owes money
 Can be used to send reminders
 
 ### 🧩 3. Predict Expected Income
+```javascript
 function calculateExpectedIncome(students) {
   return students.reduce((total, student) => {
     return total + student.totalFees;
@@ -180,6 +185,7 @@ function calculateActualIncome(students) {
     return total + student.amountPaid;
   }, 0);
 }
+```
 ### 💡 Insight
 
 Compare:
@@ -189,9 +195,11 @@ Expected income vs Actual income
 Helps school know financial health
 
 🧩 4. Daily Income Analytics
+```javascript
 function getTodayPayments(students, todayDate) {
   return students.filter(student => student.lastPaymentDate === todayDate);
 }
+```
 ### 💡 Insight
 
 Shows how much was collected today
@@ -199,8 +207,9 @@ Shows how much was collected today
 Useful for daily reporting
 
 ### 🧩 5. AI Remark for Financial Status
-function generateFinanceRemark(student) {
 ```javascript
+function generateFinanceRemark(student) {
+
   if (student.amountPaid === student.totalFees) {
     return "Fees fully paid. Excellent compliance.";
   }

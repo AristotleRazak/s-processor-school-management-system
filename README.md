@@ -57,7 +57,7 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 
 
 
-### 🎯 What It Will Do
+### 🎯 What S-Processor Will Do
 
 s-processor will automatically:
 

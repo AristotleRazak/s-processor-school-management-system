@@ -172,6 +172,8 @@ Example: GHC 570.00 total collected for Basic 8
 - ✅ Class-based financial summaries
 - ✅ Easy auditing and transparency
 
+---
+
 ### Payment Navigation System
 
 The system includes a guided flow for managing payments:
@@ -182,6 +184,8 @@ The system includes a guided flow for managing payments:
 - 🏫 Show Fees Per Class – Class-level breakdown
 
 
+---
+
 🧠 How It Works 
 
 1. Admin inputs student and financial data
@@ -189,6 +193,8 @@ The system includes a guided flow for managing payments:
 3. Accounting module calculates totals and balances
 4. AI module analyzes student performance
 5. System generates report cards with automated remarks
+
+---
 
 🙋 FAQ
 
@@ -200,6 +206,8 @@ A: Depends on deployment (local or cloud-based) but can work 85% completely offl
 
 Q: Can AI remarks be customized?
 A: Yes, developers can modify the logic or integrate advanced AI.
+
+---
 
 
 ### 🧩 1. Detect Unpaid Students
@@ -301,6 +309,8 @@ function detectAnomalies(student) {
 ```
 
 
+---
+
 
 
 
@@ -310,6 +320,8 @@ Developer: Aristo Embedded Software Development Consortium
 
 GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
 
+
+---
 
 
 

@@ -217,6 +217,9 @@ function getUnpaidStudents(students) {
   return students.filter(student => student.amountPaid === 0);
 }
 ```
+
+---
+
 ### 💡 What It Does
 
 Finds all students who haven’t paid anything
@@ -229,6 +232,9 @@ function getStudentsWithBalance(students) {
   return students.filter(student => student.amountPaid < student.totalFees);
 }
 ```
+
+---
+
 ### 💡 Insight
 
 Shows who still owes money
@@ -248,6 +254,9 @@ function calculateActualIncome(students) {
   }, 0);
 }
 ```
+
+---
+
 ### 💡 Insight
 
 Compare:
@@ -262,6 +271,9 @@ function getTodayPayments(students, todayDate) {
   return students.filter(student => student.lastPaymentDate === todayDate);
 }
 ```
+
+---
+
 ### 💡 Insight
 
 Shows how much was collected today
@@ -283,6 +295,8 @@ function generateFinanceRemark(student) {
 }
 ```
 
+---
+
 ### 🧩 6. Flag Suspicious Payments
 ```javascript
 function detectAnomalies(student) {
@@ -295,6 +309,9 @@ function detectAnomalies(student) {
   return "Normal";
 }
 ```
+
+---
+
 ### 📊 Example Output (AI Insight)
 ```javascript
 {

@@ -121,10 +121,15 @@ The accounting module helps eliminate errors in school fee tracking.
 ### Main Actions
 
 - **Pay Fees** – Record new payments  
-- **Show All Fees** – View all transactions  
-- **Show Fees Paid Today** – Track daily payments  
-- **Show Fees Per Class** – View class breakdown  
-
+- **Show All Fees** – View a complete list of all transactions.  
+- **Show Fees Paid Today** – Track daily payments and collections.  
+- **Show Fees Per Class** – Get a detailed breakdown of fees by class.
+- **Show Fees Per Student** – View individual student payment records.
+- **Show Paid Receipts** – Access and print receipts for paid students.
+- **Show Fees Not Paid** – Identify students with outstanding balances.
+- **Show Fees Reminder** – Generate AI-powered reminders for pending fees.
+- **Show User Tools** – Manage and control S-Processor features for smooth school operations.
+  
 ### Workflow
 
 1. Admin inputs student and payment data  
@@ -243,7 +248,18 @@ function detectAnomalies(student) {
   Solution: Verify student data and click save again
 - Issue: Reports not generating
   Solution: Ensure you selected a valid class/date range
-  
+---
+### Dashboard Overview
+
+The dashboard provides quick access to:
+
+- School Examination
+- Exams Report
+- Accounting
+- Collection Sheets
+- Student Information
+- Class Information
+- Houses (student grouping)
  ---
  ### Screenshots
  ![Dashboard](dashboard_2.png)

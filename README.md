@@ -38,7 +38,18 @@ S-Processor helps schools:
 - Generate reports
 - Use AI for insights
 ---
+### FAQ
 
+### Who can use S-Processor?
+Schools, administrators, and teachers.
+
+### Does it require internet?
+It depends on deployment (can be local or cloud-based).
+
+### Can AI remarks be customized?
+Yes.
+
+---
 ## 📘 Table of Contents
 
 - [Features](#features)
@@ -229,18 +240,7 @@ function detectAnomalies(student) {
 
 
 ---
-### FAQ
 
-### Who can use S-Processor?
-Schools, administrators, and teachers.
-
-### Does it require internet?
-It depends on deployment (can be local or cloud-based).
-
-### Can AI remarks be customized?
-Yes.
-
----
 ### Contact
 
 Developer: Aristo Embedded Software Development Consortium

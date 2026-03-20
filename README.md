@@ -354,12 +354,13 @@ GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
 
 ---
 
-### How to Record Fees
+### How to Record/Pay Fees
 1. Go to **Accounting**
 2. Click **Pay Fees**
-3. Enter student details
-4. Enter amount paid
-5. Click **Save**
+3. select class
+4. click the paying column for the target student
+5. Enter amount paid
+6. Click **OK** or press Enter to save
 
 ---
 

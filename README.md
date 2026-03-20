@@ -228,6 +228,22 @@ function detectAnomalies(student) {
 - Go to Collection Sheets
 - Filter by date or class
 
+### Generating Reports
+
+- Go to Exams Report or Accounting Reports
+- Select the class or student range
+- Click Generate Report
+- Export as PDF or view online
+
+### Troubleshooting
+
+- Issue: Cannot login
+   Solution: Check username/password and internet connection
+- Issue: Payment not recorded
+  Solution: Verify student data and click save again
+- Issue: Reports not generating
+  Solution: Ensure you selected a valid class/date range
+  
  ---
  ### Screenshots
  ![Dashboard](dashboard_2.png)

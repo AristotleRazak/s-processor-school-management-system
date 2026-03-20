@@ -274,3 +274,12 @@ S-Processor is built with the following core modules:
 - Student Management (Records & classes)
 - AI Engine (Remarks & analytics)
 - Reporting System (Financial & academic reports)
+
+---
+## Quick Summary
+
+S-Processor helps schools:
+- Track fees
+- Manage students
+- Generate reports
+- Use AI for insights

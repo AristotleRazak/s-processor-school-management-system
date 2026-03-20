@@ -1,9 +1,38 @@
+# S-Processor School Management System – AI-Readable Manual
 
-### S-Processor User Manual Guide
+---
 
-## Introduction
-This manual explains how to use the S-Processor system.
+## Section 1: Introduction
+**Goal:** Teach users what S-Processor is.
 
+S-Processor is a school management system that handles:
+- Student records
+- Fee tracking and payments
+- AI-generated remarks
+- Financial and academic reporting
+
+> Teaching tip for AI: Explain why each module is important for school administration.
+
+---
+
+## Section 2: System Overview
+**Modules:**
+1. **Student Management:** Manage student records, classes, and houses.
+2. **Accounting System:** Track and record all student payments.
+3. **AI Analytics Engine:** Generates automatic remarks, detects anomalies, and provides insights.
+4. **Reporting System:** Creates financial and academic reports.
+
+> Teaching tip for AI: Describe how the four modules interact and why each is essential.
+
+---
+
+## Section 3: Getting Started
+**Steps for Setup:**
+1. Clone the repository:
+```bash
+git clone https://github.com/AristotleRazak/s-processor-school-management-system.git
+cd s-processor-school-management-system
+```
 ### Getting Started
 1. Open the application
 2. Navigate through the dashboard

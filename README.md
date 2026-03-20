@@ -134,3 +134,32 @@ function getTodayPayments(students, todayDate) {
   return students.filter(student => student.lastPaymentDate === todayDate);
 }
 ```
+### AI Financial Remarks
+```javascript
+function generateFinanceRemark(student) {
+  if (student.amountPaid === student.totalFees) return "Fees fully paid. Excellent compliance.";
+  if (student.amountPaid > 0) return "Partial payment made. Follow-up required.";
+  return "No payment made. Immediate attention needed.";
+}
+```
+### Detect Payment Anomalies
+```javascript
+function detectAnomalies(student) {
+  if (student.amountPaid > student.totalFees) return "Overpayment detected";
+  if (student.amountPaid < 0) return "Invalid payment";
+  return "Normal";
+}
+```
+### Example Analytics Output
+```JSON
+{
+  "totalStudents": 100,
+  "unpaidStudents": 25,
+  "partiallyPaid": 50,
+  "fullyPaid": 25,
+  "expectedIncome": 25000,
+  "actualIncome": 15000,
+  "message": "Collection rate is low. Follow-up needed."
+}
+```
+---

@@ -25,10 +25,14 @@ OR
 SProcessor(SP) is a school management application designed to simplify school accounting and student reporting. It helps schools manage finances accurately, reduce errors, and automatically generate student reports with AI-powered remarks.
 
 
+---
+
 ### What S-Processor stands for
 
 S-Processor means School Processor(School Processing System) in short SP.
 
+
+---
 
 🎯 Built for school administrators, accountants, and teachers
 
@@ -36,6 +40,8 @@ S-Processor means School Processor(School Processing System) in short SP.
 
 🤖 Generates intelligent student report comments using AI
 
+
+---
 
 ### 🚀 Features
 
@@ -59,6 +65,8 @@ The system provides:
 - 🏫 Class management
 
 
+---
+
 
 ### 📊 Main Dashboard
 
@@ -73,10 +81,26 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
 
+---
+
 ![Dashboard](dashboard_2.png)
+
+---
+
 ![Accounting](accounting_dashboard.png)
+
+---
+
 ![Reports](report.jpeg)
+
+
+---
+
 ![S-Processor logo](S-Processor_logo.png)
+
+
+---
+
 
 
 ### 🎯 What S-Processor Will Do
@@ -90,6 +114,8 @@ s-processor will automatically:
 - 📅 Show daily, weekly, monthly trends
 
 
+---
+
   ### 🛠️ Tech Stack
 
 - Frontend: (e.g., React / HTML / CSS / JavaScript)
@@ -98,6 +124,8 @@ s-processor will automatically:
 - AI Integration: (e.g., OpenAI API or custom logic)
 - Other Tools: Git, REST APIs
 
+
+---
 
 ### 💰 Accounting & Fee Management
 
@@ -110,6 +138,8 @@ Key Functions:
 - Generate receipts
 - Track total income per student and class
 
+
+---
 
 ### 📋 Fee Collection Report (Analytics View)
 
@@ -131,6 +161,8 @@ Total income for a class is automatically calculated
 
 Example: GHC 570.00 total collected for Basic 8
 
+
+---
 
 ### Smart Fee Tracking Features
 
@@ -277,5 +309,49 @@ function detectAnomalies(student) {
 Developer: Aristo Embedded Software Development Consortium
 
 GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
+
+
+
+
+
+
+
+## User Manual Guide
+
+### Getting Started
+1. Open the application
+2. Login using admin or teacher credentials
+3. Navigate through the dashboard
+
+---
+
+### How to Record Fees
+1. Go to **Accounting**
+2. Click **Pay Fees**
+3. Enter student details
+4. Enter amount paid
+5. Click **Save**
+
+---
+
+### How to View Reports
+1. Go to **Exams Report**
+2. Select class
+3. Generate report
+4. View AI-generated remarks
+
+---
+
+### How to Track Payments
+1. Go to **Collection Sheets**
+2. View payments made today
+3. Filter by class or date
+
+---
+
+### How to Detect Unpaid Students
+1. Open **Accounting Dashboard**
+2. Check students with balance
+3. Follow up on unpaid students
 
 

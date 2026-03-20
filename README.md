@@ -210,3 +210,14 @@ It depends on deployment (can be local or cloud-based).
 
 ### Can AI remarks be customized?
 Yes.
+
+---
+### Contact
+
+Developer: Aristo Embedded Software Development Consortium
+GitHub: https://github.com/AristotleRazak
+
+---
+### License
+
+MIT License

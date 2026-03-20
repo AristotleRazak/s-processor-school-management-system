@@ -1,6 +1,9 @@
 
 ### S-Processor User Manual Guide
 
+## Introduction
+This manual explains how to use the S-Processor system.
+
 ### Getting Started
 1. Open the application
 2. Navigate through the dashboard

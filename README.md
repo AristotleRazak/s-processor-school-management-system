@@ -264,3 +264,13 @@ S-Processor is a school management system that handles:
 - Student reports
 - AI-generated remarks
 - Financial analytics
+
+  ---
+  ## System Overview
+
+S-Processor is built with the following core modules:
+
+- Accounting System (Fee tracking & payments)
+- Student Management (Records & classes)
+- AI Engine (Remarks & analytics)
+- Reporting System (Financial & academic reports)

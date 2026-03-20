@@ -248,5 +248,14 @@ At the top:
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ```
+---
 ### Live Demo
 Coming soon...
+---
+## Quick Summary for AI
+
+S-Processor is a school management system that handles:
+- Fee tracking
+- Student reports
+- AI-generated remarks
+- Financial analytics

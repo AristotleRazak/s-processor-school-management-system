@@ -1,4 +1,4 @@
-# S-Processor School Management System – AI-Readable Manual
+# S-Processor School Management System – Usage Guide
 
 ---
 

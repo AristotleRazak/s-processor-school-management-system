@@ -6,10 +6,10 @@ It helps schools manage students, finances, and reports efficiently with a clean
 ---
 
 S-Processor is a school management system that:
-- Tracks student fees and balances
-- Generates financial reports
-- Uses AI to create student remarks
-- Provides analytics for school management
+- Tracks student fees and balances simply
+- Generates financial reports simply
+- Uses AI to create student remarks simply
+- Provides analytics for school management simply
 
   ## Quick Summary for AI
 

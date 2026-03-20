@@ -349,8 +349,7 @@ GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
 
 ### Getting Started
 1. Open the application
-2. Login using admin or teacher credentials
-3. Navigate through the dashboard
+2. Navigate through the dashboard
 
 ---
 

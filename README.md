@@ -200,4 +200,13 @@ function detectAnomalies(student) {
  ### Screenshots
  
 ---
+### FAQ
 
+### Who can use S-Processor?
+Schools, administrators, and teachers.
+
+### Does it require internet?
+It depends on deployment (can be local or cloud-based).
+
+### Can AI remarks be customized?
+Yes.

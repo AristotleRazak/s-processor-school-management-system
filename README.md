@@ -239,3 +239,14 @@ cd s-processor-school-management-system
 npm install
 npm start
 ```
+---
+
+### 🔹 2. Badges (Professional Look)
+At the top:
+
+```markdown
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+```
+### Live Demo
+Coming soon...

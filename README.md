@@ -170,3 +170,29 @@ function detectAnomalies(student) {
 - Database: MongoDB / MySQL
 - AI Integration: OpenAI API or custom logic
 - Tools: Git, REST APIs
+
+---
+### S-Processor User Manual Guide
+### Getting Started
+
+- Open the application
+- Login as admin or teacher
+- Navigate through dashboard
+
+### How to Record Fees
+
+- Go to Accounting
+- Click Pay Fees
+- Enter student details
+- Enter amount
+- Save
+
+### How to View Reports
+
+- Go to Exams Report
+- Select class
+- Generate report
+- How to Track Payments
+- Go to Collection Sheets
+- Filter by date or class
+  

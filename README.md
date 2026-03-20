@@ -345,7 +345,7 @@ GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
 
 
 
-## # S-Processor User Manual Guide
+### S-Processor User Manual Guide
 
 ### Getting Started
 1. Open the application

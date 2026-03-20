@@ -248,7 +248,6 @@ At the top:
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ```
----
 ### Live Demo
 Coming soon...
 ---

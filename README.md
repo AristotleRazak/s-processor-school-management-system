@@ -229,3 +229,13 @@ GitHub: https://github.com/AristotleRazak
 ### License
 
 MIT License
+
+---
+### Installation
+
+```bash
+git clone https://github.com/AristotleRazak/s-processor-school-management-system.git
+cd s-processor-school-management-system
+npm install
+npm start
+```

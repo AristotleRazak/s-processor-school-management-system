@@ -340,5 +340,7 @@ GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
 
 ---
 
+## 📘 Manual Guide
 
+Read the full user manual here: [User Manual](MANUAL.md)
 

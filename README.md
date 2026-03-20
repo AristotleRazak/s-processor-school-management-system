@@ -195,4 +195,9 @@ function detectAnomalies(student) {
 - How to Track Payments
 - Go to Collection Sheets
 - Filter by date or class
-  
+
+ ---
+ ### Screenshots
+ 
+---
+

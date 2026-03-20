@@ -6,6 +6,34 @@ S-Processor is a school management system that:
 - Uses AI to create student remarks
 - Provides analytics for school management
 
+  ## Quick Summary for AI
+
+S-Processor is a school management system that handles:
+- Fee tracking
+- Student reports
+- AI-generated remarks
+- Financial analytics
+
+  ---
+  ## System Overview
+
+S-Processor is built with the following core modules:
+
+- Accounting System (Fee tracking & payments)
+- Student Management (Records & classes)
+- AI Engine (Remarks & analytics)
+- Reporting System (Financial & academic reports)
+
+---
+## Quick Summary
+
+S-Processor helps schools:
+- Track fees
+- Manage students
+- Generate reports
+- Use AI for insights
+---
+
 **S-Processor (SP)** is a modern school management and accounting system designed to simplify fee tracking, eliminate financial errors, and generate intelligent student reports with AI-powered remarks.
 
 It helps schools manage students, finances, and reports efficiently with a clean and easy-to-use interface.
@@ -26,9 +54,7 @@ It helps schools manage students, finances, and reports efficiently with a clean
 - [FAQ](#faq)
 - [Contact](#contact)
 - [License](#license)
-
 ---
-
 ## Features
 
 - Fee tracking and accounting
@@ -37,9 +63,7 @@ It helps schools manage students, finances, and reports efficiently with a clean
 - Financial reports and analytics
 - AI-generated student remarks
 - Secure and structured data handling
-
 ---
-
 ## Dashboard Overview
 
 The dashboard provides quick access to all major modules:
@@ -52,10 +76,8 @@ The dashboard provides quick access to all major modules:
 - Houses (student grouping)
 
 The system is designed for **simplicity and ease of use**, even for non-technical users.
-
 ---
-
-## Accounting & Fee Management
+### Accounting & Fee Management
 
 The accounting module helps eliminate errors in school fee tracking.
 
@@ -75,9 +97,7 @@ The accounting module helps eliminate errors in school fee tracking.
 - Total amount paid
 - Remaining balance
 - Receipt number
-
 ---
-
 ## Smart Fee Tracking
 
 - Real-time balance calculation  
@@ -85,9 +105,7 @@ The accounting module helps eliminate errors in school fee tracking.
 - Daily payment tracking  
 - Class-based summaries  
 - Transparent auditing system  
-
 ---
-
 ## Payment Navigation System
 
 ### Main Actions
@@ -104,9 +122,7 @@ The accounting module helps eliminate errors in school fee tracking.
 3. Accounting module calculates balances  
 4. AI analyzes performance and finance  
 5. Reports are generated automatically  
-
 ---
-
 ## AI & Analytics Functions
 
 ### Detect Unpaid Students
@@ -257,29 +273,3 @@ At the top:
 ### Live Demo
 Coming soon...
 ---
-## Quick Summary for AI
-
-S-Processor is a school management system that handles:
-- Fee tracking
-- Student reports
-- AI-generated remarks
-- Financial analytics
-
-  ---
-  ## System Overview
-
-S-Processor is built with the following core modules:
-
-- Accounting System (Fee tracking & payments)
-- Student Management (Records & classes)
-- AI Engine (Remarks & analytics)
-- Reporting System (Financial & academic reports)
-
----
-## Quick Summary
-
-S-Processor helps schools:
-- Track fees
-- Manage students
-- Generate reports
-- Use AI for insights

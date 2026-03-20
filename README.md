@@ -78,6 +78,7 @@ Yes.
 
 The dashboard provides quick access to all major modules:
 
+- School Examination
 - Exams Report
 - Accounting
 - Collection Sheets
@@ -101,7 +102,7 @@ The accounting module helps eliminate errors in school fee tracking.
 ### Fee Collection Report Includes:
 
 - Date of payment
-- Class (e.g., Basic 8, Basic 9)
+- Class (e.g.,Creche - Basic 8, Basic 9)
 - Student names
 - Last payment made
 - Total amount paid

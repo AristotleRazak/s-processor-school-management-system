@@ -198,7 +198,15 @@ function detectAnomalies(student) {
 
  ---
  ### Screenshots
- 
+ ![Dashboard](dashboard_2.png)
+
+
+![Accounting](accounting_dashboard.png)
+
+
+![Reports](report.jpeg)
+
+
 ---
 ### FAQ
 

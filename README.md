@@ -1,5 +1,10 @@
 # S-Processor School Management System (SP)
 
+**S-Processor (SP)** is a modern school management and accounting system designed to simplify fee tracking, eliminate financial errors, and generate intelligent student reports with AI-powered remarks.
+
+It helps schools manage students, finances, and reports efficiently with a clean and easy-to-use interface.
+---
+
 S-Processor is a school management system that:
 - Tracks student fees and balances
 - Generates financial reports
@@ -32,12 +37,6 @@ S-Processor helps schools:
 - Manage students
 - Generate reports
 - Use AI for insights
----
-
-**S-Processor (SP)** is a modern school management and accounting system designed to simplify fee tracking, eliminate financial errors, and generate intelligent student reports with AI-powered remarks.
-
-It helps schools manage students, finances, and reports efficiently with a clean and easy-to-use interface.
-
 ---
 
 ## 📘 Table of Contents

@@ -163,3 +163,10 @@ function detectAnomalies(student) {
 }
 ```
 ---
+### Tech Stack
+
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB / MySQL
+- AI Integration: OpenAI API or custom logic
+- Tools: Git, REST APIs

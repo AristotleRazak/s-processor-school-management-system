@@ -119,6 +119,7 @@ The accounting module helps eliminate errors in school fee tracking.
 ## Payment Navigation System
 
 ### Main Actions
+Accounting & Fee Management – Key Features
 
 - **Pay Fees** – Record new payments  
 - **Show All Fees** – View a complete list of all transactions.  

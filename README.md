@@ -347,7 +347,7 @@ Read the full user manual here: [User Manual](s_processor_school_management_syst
 
 ## 📘 Training Manual
 
-Read the full user manual here: [User Manual](s_processor_school_management_system_professional_usage_guide.md)
+Read the full user manual here: [User Manual](s_processor_school_management_system_professional_training_manual .md)
 ---
 
 

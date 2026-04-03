@@ -473,7 +473,7 @@ Click on the music icon on where ‘S-Processor 0.7’ is located
 
 ---
 
-## How to install other plugin (School Report Display (Pre-level Report Display, lower-level Report Display, upper-level Report Display, jhs level Report Display), School Receipt Display, install new songs and more)
+## How to install other plugin (School Report Display (Pre-level, lower-level, upper-level, jhs level), School Receipt Display, install new songs and more)
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘INSTALLATIONS’
@@ -485,26 +485,10 @@ Click on the music icon on where ‘S-Processor 0.7’ is located
 8.	Done, the plugin install will be working with S-Processor
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SCHOOL INFORMATION
-How to set/change school information
+## SCHOOL INFORMATION
+## How to set/change school information
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘SCHOOL INFORMATION’
@@ -515,8 +499,9 @@ How to set/change school information
 7.	Click on HOME to return the main dashboard
 8.	Click on QUIT to return the main dashboard
 
+---
 
-How to set/change administrators information
+## How to set/change administrators information
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘SECURITY SETUP’
@@ -526,15 +511,10 @@ How to set/change administrators information
 
 
 
+---
 
-
-
-
-
-
-
-REGISTRATION
-How to register student
+## REGISTRATION
+## How to register student
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘REGISTER STUDENT’
@@ -543,7 +523,7 @@ How to register student
 5.	Click on ‘Register’ to register student
 6.	Click on ‘New Student’ to make student ready to be registered
 
-                                                                 Delete Student(s) Wrongly Registered
+    ##                                                             Delete Student(s) Wrongly Registered
                            
 1.	Click on the right mouse button
 2.	Click on ‘Delete Student(s)’ to select students you wish to delete
@@ -556,14 +536,9 @@ How to register student
 
 
 
+---
 
-
-
-
-
-
-
-How to delete student
+## How to delete student
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘DELETE STUDENT(S)’
@@ -573,8 +548,9 @@ How to delete student
 6.	Click on ‘Register Student(s)’ to open back to registry
 7.	Click on ‘HOME’ to return to the main dashboard
 
+---
 
-How to delete class
+## How to delete class
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘DELETE STUDENT(S)’
@@ -586,14 +562,9 @@ How to delete class
 
 
 
+---
 
-
-
-
-
-
-
-NEW TERM
+## NEW TERM
 How to prepare school for new term
 This option will upgrade the fees for all students in the school.  This means, those fully paid will be given new term fees to pay as new. 
 And those not, their fees left will be added up with new term fees to pay as new.
@@ -604,7 +575,9 @@ And those not, their fees left will be added up with new term fees to pay as new
 4.	Accept it
 5.	Wait until processing is complete.
 
-How to prepare class for new term
+---
+
+## How to prepare class for new term
 This option will upgrade the fees for all students in the class.  This means, those fully paid will be given new term fees to pay as new. 
 And those not, their fees left will be added up with new term fees to pay as new.
 
@@ -617,14 +590,12 @@ And those not, their fees left will be added up with new term fees to pay as new
 
 
 
+---
 
+## PROMOTION
+## How to show promotion on report
 
-
-
-PROMOTION
-How to show promotion on report
-
-1.		Click on ‘SHOW EXAMS REPORT’
+1.	Click on ‘SHOW EXAMS REPORT’
 2.	Select class to view students
 3.	Select any student to show report
 4.	Click on the right mouse button
@@ -632,8 +603,10 @@ How to show promotion on report
 6.	Click on ‘Hide Promotion’ to hide promotion
 7.	Click again to change promotion statement
 
-How to promote all students in the school
-This option will promote all students and upgrade the fees for all students in the school.  
+---
+
+## How to promote all students in the school
+NOTE :This option will promote all students and upgrade the fees for all students in the school.  
 This means, those fully paid will be given new term fees to pay as new. 
 And those not, their fees left will be added up with new term fees to pay as new.
 
@@ -644,16 +617,10 @@ And those not, their fees left will be added up with new term fees to pay as new
 5.	Wait until processing is complete.
 
 
+---
 
-
-
-
-
-
-
-
-How to jump/skip student to the next class
-USE THIS OPTION ONLY IF SCHOOL PROMOTION IS COMPLETE 
+## How to jump/skip student to the next class
+NOTE: USE THIS OPTION ONLY IF SCHOOL PROMOTION IS COMPLETE 
 This option will jump student(s) and no upgrade of fees will take effect.  
 
 1.	Click on ‘USER TOOLS’
@@ -664,8 +631,10 @@ This option will jump student(s) and no upgrade of fees will take effect.
 6.	Click on ‘Promote Students(s)’
 7.	Wait until processing is complete.
 
-How to fail student in the class
-USE THIS OPTION ONLY IF SCHOOL PROMOTION IS COMPLETE 
+---
+
+## How to fail student in the class
+NOTE: USE THIS OPTION ONLY IF SCHOOL PROMOTION IS COMPLETE 
 This option will return the student(s) promote back to previous class and no upgrade of fees will take effect.  
 
 1.	Click on ‘USER TOOLS’
@@ -677,21 +646,19 @@ This option will return the student(s) promote back to previous class and no upg
 7.	Wait until processing is complete.
 
 
+---
 
+## CHECK EXAMINATION
 
-
-
-CHECK EXAMINATION
-
-How to check students Exams per Class
-THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
+## How to check students Exams per Class
+NOTE: THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
 
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘CHECK SCHOOL EXAMS’
 3.	Click on ‘CHECK PER CLASS’
 4.	Select class to view exams marks
 
-                         Moving Names
+##                         Moving Names
 1.	Double click on any of the names on the left side
 2.	Press ‘h’ to move names forward
 3.	Press ‘g’ to move names backward
@@ -699,40 +666,30 @@ THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-How to check students Exams per Report
-OPTION 1
+## How to check students Exams per Report
+## OPTION 1
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘CHECK SCHOOL EXAMS’
 3.	Click on ‘CHECK PER STUDENT’
 4.	Select class to view students
 5.	Click on any student to view report
 
-                   VIEW PROMOTION  
+##                   VIEW PROMOTION  
 1.	Click on the right mouse button
 2.	Click on ‘Show Promotion’ to show promotion
 3.	Click on ‘Hide Promotion’ to hide promotion
 4.	Click again to change promotion statement
+---
 
-How to check students Exams per Report
-OPTION 2
+## How to check students Exams per Report
+## OPTION 2
 5.	Click on ‘SHOW EXAMS REPORT’
 6.	Select class to view students
 7.	Select any student to show report
 
-                        VIEW PROMOTION
+ ##                       VIEW PROMOTION
 1.	Click on the right mouse button
 2.	Click on ‘Show Promotion’ to show promotion
 3.	Click on ‘Hide Promotion’ to hide promotion
@@ -741,7 +698,9 @@ OPTION 2
 
 
 
-How to check an already recorded/preserved school examination record
+---
+
+## How to check an already recorded/preserved school examination record
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘S-P RECORD VIEWER’
@@ -752,8 +711,10 @@ How to check an already recorded/preserved school examination record
 
 
 
-AGGREGATION BOARD
-How to check school Exams performance per subject
+---
+
+## AGGREGATION BOARD
+## How to check school Exams performance per subject
 
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘CHECK SCHOOL EXAMS’
@@ -766,12 +727,9 @@ How to check school Exams performance per subject
 9.	Click on ‘GENERATE’
 
 
+---
 
-
-
-
-
-How to check school Exams performance between Classes
+## How to check school Exams performance between Classes
 
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘CHECK SCHOOL EXAMS’

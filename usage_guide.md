@@ -88,7 +88,7 @@ cd s-processor-school-management-system
 3.	Click on HOME to return the main dashboard
 4.	Click on QUIT to return to the main dashboard
 
-                                    Moving Names
+       ##                             Moving Names
 1.	Double click on any of the names on the left side
 2.	Press ‘h’ to move names forward
 3.	Press ‘g’ to move names backward
@@ -401,12 +401,14 @@ Click on the music icon on where ‘S-Processor 0.7’ is located
 1. Right-click on the 'Home' dashboard.
 2. Click on 'Change sound'
 
-How to check student information per class
+---
+
+## How to check student information per class
 
 1.	Click on ‘ALL CLASS INFORMATION’
 2.	Select a class you wish to view information
 
-                                    Moving Names
+  ##                                  Moving Names
 5.	Double click on any of the names on the left side
 6.	Press ‘h’ to move names forward
 7.	Press ‘g’ to move names backward
@@ -415,28 +417,18 @@ How to check student information per class
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-SAVE RECORD
-How to save class record for backup
+## How to save class record for backup
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘RECORD RESERVATION’
 3.	Select class to reserve record
 4.	Click on ‘RESERVE’
 
-How to save school record for future use
+---
+
+## How to save school record for future use
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘RESERVE RECORD FOR FUTURE’
@@ -449,18 +441,9 @@ How to save school record for future use
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-INSTALLATION
-How to install class record for backup
+## How to install class record for backup
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘INSTALLATIONS’
@@ -472,7 +455,9 @@ How to install class record for backup
 8.	Done, the class backup is made. Previous records saved in the backup are installed
 
 
-How to install school report for display
+---
+
+## How to install school report for display
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘INSTALLATIONS’
@@ -486,7 +471,9 @@ How to install school report for display
 
 
 
-How to install other plugin
+---
+
+## How to install other plugin (School Report Display (Pre-level Report Display, lower-level Report Display, upper-level Report Display, jhs level Report Display), School Receipt Display, install new songs and more)
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘INSTALLATIONS’

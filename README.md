@@ -342,8 +342,12 @@ GitHub: [Read More](README.md)
 
 ## 📘 Manual Guide
 
-Read the full user manual here: [User Manual](usage_guide.md)
+Read the full user manual here: [User Manual](s_processor_school_management_system_professional_usage_guide.md)
+---
 
+## 📘 Training Manual
+
+Read the full user manual here: [User Manual](s_processor_school_management_system_professional_usage_guide.md)
 ---
 
 

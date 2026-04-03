@@ -127,7 +127,13 @@ cd s-processor-school-management-system
 ---
 
 ## How to Give Exams Remarks using AI
+## OPTION 1
+1.	Click on SCHOOL EXAMINATION
+2.	Click on GENERATE AI REMARKS
+3.	Select the target class you wish to make students remarks
 
+
+## OPTION 2
 1.	Click on SCHOOL EXAMINATION
 2.	Click on MAKE SCHOOL EXAMS
 3.	Click on MAKE PER CLASS

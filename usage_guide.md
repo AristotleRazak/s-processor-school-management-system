@@ -165,7 +165,9 @@ This remark option is only used for correcting an AI remark already done. But no
 6.	Press and hold ‘ctrl’ click on the specific remark inline of the target student  you wish to correct 
 7.	Type your preferred remarks and accept it for processing
 
-How to clean Exams Remarks for target student
+---
+
+## How to clean Exams Remarks for target student
 
 1.	Click on SCHOOL EXAMINATION
 2.	Click on MAKE SCHOOL EXAMS
@@ -175,7 +177,9 @@ How to clean Exams Remarks for target student
 6.	Press and hold ‘ctrl’ click on the specific remark inline of the target student  you wish to correct 
 7.	Type no remark and accept it for processing
 
-How to Generate Exams Position per subject and class
+---
+
+## How to Generate Exams Position per subject and class
 
 Make sure all remarks are made in the target class
 1.	Click on SCHOOL EXAMINATION
@@ -184,29 +188,10 @@ Make sure all remarks are made in the target class
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-OTHERS
-How to merge two or more Exams subjects
-OPTION 1
+## How to merge two or more Exams subjects
+## OPTION 1
 MERGING EXAMS SUBJECT(S)
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘RECORD FROM COMPANION’
@@ -219,7 +204,7 @@ MERGING EXAMS SUBJECT(S)
 9.	Wait for the process to complete
 
 
-OPTION 2
+## OPTION 2
 MERGING MOCK SUBJECT(S)
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘MAKE SCHOOL MOCK’
@@ -232,7 +217,9 @@ MERGING MOCK SUBJECT(S)
 9.	Wait for the process to complete
 
 
-How to change exams percentage
+---
+
+## How to change exams percentage
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘EXAMINATION STATUS’
 3.	Set percentage

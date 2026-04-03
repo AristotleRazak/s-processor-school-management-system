@@ -342,7 +342,7 @@ GitHub: [Read More](README.md)
 
 ## 📘 Manual Guide
 
-Read the full user manual here: [User Manual](MANUAL.md)
+Read the full user manual here: [User Manual](usage_guide.md)
 
 ---
 

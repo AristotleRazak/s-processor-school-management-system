@@ -228,7 +228,9 @@ MERGING MOCK SUBJECT(S)
 6.	Click on ‘< Previous’ to return back
 
 
-How to type school attendance
+---
+
+## How to type school attendance
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘TERMINAL STATUS’
@@ -242,14 +244,9 @@ How to type school attendance
 10.	Click on ‘Home’ to return back to the dashboard
 
 
+---
 
-
-
-
-
-
-
-How to type student attendance
+## How to type student attendance
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘STUDENT ATTENDANCE’
 3.	Select class for setting student attendance
@@ -261,7 +258,9 @@ How to type student attendance
 
 
 
-How to set school term in academic year
+---
+
+## How to set school term in academic year
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘TERMINAL STATUS’
 3.	Set the term
@@ -271,17 +270,10 @@ How to set school term in academic year
 
 
 
+---
 
-
-
-
-
-
-
-
-
-How to set school vacating date in academic year
-OPTION 1
+## How to set school vacating date in academic year
+## OPTION 1
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘SET DATE’
 3.	Set vacation date
@@ -292,7 +284,7 @@ OPTION 1
 
 
 
-OPTION 2
+## OPTION 2
 8.	Click on ‘USER TOOLS’
 9.	Click on ‘TERMINAL STATUS’
 10.	Click on right mouse button
@@ -310,7 +302,9 @@ OPTION 2
 
 
 
-How to set school reopening date in academic year
+---
+
+## How to set school reopening date in academic year
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘TERMINAL STATUS’
 3.	Set the reopening date
@@ -320,7 +314,9 @@ How to set school reopening date in academic year
 
 
 
-How to repair corrupted class database
+---
+
+## How to repair corrupted class database
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘REPAIR DATABASE’
 3.	Select the corrupted class to repair
@@ -328,18 +324,18 @@ How to repair corrupted class database
 
 
 
-How to repair fault class database
+---
+
+## How to repair fault class database
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘REPAIR DATABASE’
 3.	Select the fault class to repair
 4.	Wait for the process to complete
 
 
+---
 
-
-
-
-How to change student’s info
+## How to change student’s info
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘CHANGE NAMES AND MORE’
 3.	Select class
@@ -349,7 +345,9 @@ How to change student’s info
 
 
 
-How to change student’s house number
+---
+
+## How to change student’s house number
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘CHANGE HOUSE NUMBER AND MORE’
 3.	Select class
@@ -360,17 +358,9 @@ How to change student’s house number
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-How to change parent’s info
+## How to change parent’s info
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘CHANGE HOUSE NUMBER AND MORE’
 3.	Select class
@@ -380,16 +370,22 @@ How to change parent’s info
 
 
 
-How to stop music
+---
+
+## How to stop music
 1.	Click on ‘f5’ on the keyboard to refresh
 2.	Do not accept the music option
 
-How to mute/0 music volume
-OPTION 1
+---
+
+## How to mute/0 music volume
+## OPTION 1
 Click on the music icon on where ‘S-Processor 0.7’ is located
 
 
-How to start music
+---
+
+## How to start music
 1.	Click on ‘f5’ on the keyboard to refresh
 2.	Accept the music option
 
@@ -399,8 +395,11 @@ How to start music
 
 
 
-How to change music
-THIS OPTION DOES NOT WORK IN THE PROGRAM
+---
+
+## How to change music
+1. Right-click on the 'Home' dashboard.
+2. Click on 'Change sound'
 
 How to check student information per class
 

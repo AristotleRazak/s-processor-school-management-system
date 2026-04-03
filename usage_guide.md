@@ -747,8 +747,9 @@ NOTE: THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
 8.	Click on ‘GENERATE’
 
 
+---
 
-How to check school Exams performance per Class
+## How to check school Exams performance per Class
 
 1.	Click on ‘SCHOOL EXAMINATION’
 2.	Click on ‘CHECK SCHOOL EXAMS’
@@ -761,158 +762,12 @@ How to check school Exams performance per Class
 
 
 
+---
 
+## ACCOUNTING
 
 
-
-SCHOOL MOCK
-
-How to Type Student Exams in Class option
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER CLASS
-4.	Click on target student’s mock box in column with  ‘golden/brown color’ on top for target subject
-5.	Type the marks and accept it for processing
-
-                      HOW TO RETURN BACK
-1.	Click on the right mouse button
-2.	Click on CLASS to choose different class for another typing
-3.	Click on HOME to return the main dashboard
-4.	Click on QUIT to return to the main dashboard
-
-                        Moving Names
-1.	Double click on any of the names on the left side
-2.	Press ‘h’ to move names forward
-3.	Press ‘g’ to move names backward
-4.	Double click on any of the names again to quit moving names
-
-
-
-
-
-
-
-
-How to Type Student Exams per Subject option
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER SUBJECT
-4.	Select the target SUBJECT you wish to use for typing the target exams marks
-5.	Click on target student’s local exams box/cell 
-6.	Type the marks and accept it for processing
-
-
-How to Clean Student marks in Exams for temporal
-
-1.	Click on target student’s class box/cell 
-2.	Type the ‘1000’ as marks and accept it 
-
-
-How to Clean Student marks in Exams for permanent
-
-1.	Click on target student’s exams box/cell 
-2.	Type the ‘1000’ as marks and accept it for processing
-
-
-
-
-
-
-
-
-
-
-How to Give Exams Remarks using AI
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER CLASS
-4.	Select the target class you wish to make students remarks
-5.	Press ‘SHIFT’ and scroll the mouse wheel to locate the place of CONDUCT, INTEREST and more or Press and hold ‘ctrl’ and click on ‘f’ on the keyboard (‘ctrl + f’) type ‘CONDUCT’ to find the location for CONDUCT, INTEREST and more
-6.	Click on small ‘n’ on the keyboard
-7.	Hover/target the pointer inline of the target student for processing the remarks (DO NOT CLICK THE MOUSE BUTTON)
-8.	Repeat same for all students listed
-9.	Click on ‘END PROCESSING’ or ‘n’ again to stop remarking
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-How to Give Exams Remarks manually
-
-This remark option is only used for correcting an AI remark already done. But not for remarking
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER CLASS
-4.	Select the target class you wish to make students remarks
-5.	Press ‘SHIFT’ and scroll the mouse wheel to locate the place of CONDUCT, INTEREST and more or Press and hold ‘ctrl’ and click on ‘f’ on the keyboard (‘ctrl + f’) type ‘CONDUCT’ to find the location for CONDUCT, INTEREST and more
-6.	Click on the specific remark inline of the target student  you wish to correct 
-
-
-How to Give Exams Remarks by Typing
-This remark option is only used for correcting an AI remark already done. But not for remarking
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER CLASS
-4.	Select the target class you wish to make students remarks
-5.	Press ‘SHIFT’ and scroll the mouse wheel to locate the place of CONDUCT, INTEREST and more or Press and hold ‘ctrl’ and click on ‘f’ on the keyboard (‘ctrl + f’) type ‘CONDUCT’ to find the location for CONDUCT, INTEREST and more
-6.	Press and hold ‘ctrl’ click on the specific remark inline of the target student  you wish to correct 
-7.	Type your preferred remarks and accept it for processing
-
-
-How to clean Exams Remarks for target student
-
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on MAKE PER CLASS
-4.	Select the target class you wish to make students remarks
-5.	Press ‘SHIFT’ and scroll the mouse wheel to locate the place of CONDUCT, INTEREST and more or Press and hold ‘ctrl’ and click on ‘f’ on the keyboard (‘ctrl + f’) type ‘CONDUCT’ to find the location for CONDUCT, INTEREST and more
-6.	Press and hold ‘ctrl’ click on the specific remark inline of the target student  you wish to correct 
-7.	Type no remark and accept it for processing
-
-How to Generate Exams Position per subject and class
-
-Make sure all remarks are made in the target class
-1.	Click on SCHOOL EXAMINATION
-2.	Click on MAKE SCHOOL MOCK
-3.	Click on GENERATE CLASS POSITIONS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ACCOUNTING
-
-COLLECTION
-How to generate feeding fees sheet for daily collection
+## How to generate feeding fees sheet for daily collection
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘CANTEEN DAILY COLLECTION’
@@ -924,7 +779,9 @@ How to generate feeding fees sheet for daily collection
 
 
 
-How to generate bus fees sheet for daily collection
+---
+
+## How to generate bus fees sheet for daily collection
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘BUS DAILY COLLECTION’
@@ -940,8 +797,9 @@ How to generate bus fees sheet for daily collection
 
 
 
+---
 
-How to generate feeding and bus fees sheet for daily collection
+## How to generate feeding and bus fees sheet for daily collection
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘CANTEEN AND BUS DAILY COLLECTION’
@@ -957,8 +815,10 @@ How to generate feeding and bus fees sheet for daily collection
 
 
 
-How to generate school fees sheet for daily collection
-THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
+---
+
+## How to generate school fees sheet for daily collection
+NOTE: THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘SCHOOL FEES COLLECTION’
@@ -969,13 +829,10 @@ THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
 
 
 
+---
 
-
-
-
-
-How to generate school fees left sheet for daily collection
-THIS OPTION WILL SHOW ONLY THE FEES LEFT 
+## How to generate school fees left sheet for daily collection
+NOTE: THIS OPTION WILL SHOW ONLY THE FEES LEFT 
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘STUDENTS FEES LEFT COLLECTION’
@@ -984,8 +841,10 @@ THIS OPTION WILL SHOW ONLY THE FEES LEFT
 5.	Click on ‘Home’ to return to the main dashboard
 6.	Click on ‘< Previous’ to select new class for another display
 
-How to generate class school fees sheet for daily collection
-THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
+---
+
+## How to generate class school fees sheet for daily collection
+NOTE: THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘SCHOOL FEES IN CLASS COLLECTION’
@@ -998,13 +857,9 @@ THIS OPTION WILL SHOW ONLY THE TERM FEES BUT FEES LEFT WILL NO BE SEEN
 
 
 
+---
 
-
-
-
-
-
-How to generate class sheet for daily collection
+## How to generate class sheet for daily collection
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘CLASS DAILY COLLECTION’
@@ -1014,21 +869,30 @@ How to generate class sheet for daily collection
 6.	Click on ‘Home’ to return to the main dashboard
 7.	Click on ‘< Previous’ to select new class for another display
 
-CHANGE TITLE
+## CHANGE TITLE
 
 1.	Click on the name of the sheet display for the specific fees
 2.	Type the name of the specific activity for the fees collection
 3.	Accept it
 	
-MOVING CHANGED TITLE  
+## MOVING CHANGED TITLE  
                 AFTER EDITTED THE TITLE 
 1.	Press right arrow key on the keyboard to move title forward
 2.	Press left arrow key on the keyboard to move title backward
 
+## CELLS CORRECTION/EDITTING
+1. Right-click the mouse
+2. Click on CHANGE CELL IN ROW to edit each row
+3. Click on CHANGE DAYS SET to add more columns row
+4. Click on CHANGE TEXTS TO DEFAULT to undo all text changed
+5. Click on CHANGE LEFT THICKNESS to change the beginning side thickness
+6. Click on CHANGE RIGHT THICKNESS to change the folling sides thickness
+7. Click on REFRESH to restart again
 
 
+---
 
-How to generate school sheet for daily collection
+## How to generate school sheet for daily collection
 
 1.	Click on ‘DAILY RECORD’
 2.	Click on ‘SCHOOL DAILY COLLECTION’

@@ -148,7 +148,7 @@ cd s-processor-school-management-system
 ---
 
 ## How to Give Exams Remarks manually
-This remark option is only used for correcting an AI remark already done. But not for remarking
+NOTE:This remark option is only used for correcting an AI remark already done. But not for remarking
 
 1.	Click on SCHOOL EXAMINATION
 2.	Click on MAKE SCHOOL EXAMS
@@ -161,7 +161,7 @@ This remark option is only used for correcting an AI remark already done. But no
 ---
 
 ## How to Give Exams Remarks by Typing
-This remark option is only used for correcting an AI remark already done. But not for remarking
+NOTE: This remark option is only used for correcting an AI remark already done. But not for remarking
 
 1.	Click on SCHOOL EXAMINATION
 2.	Click on MAKE SCHOOL EXAMS
@@ -479,7 +479,7 @@ Click on the music icon on where ‘S-Processor 0.7’ is located
 
 ---
 
-## How to install other plugin (School Report Display (Pre-level, lower-level, upper-level, jhs level), School Receipt Display, install new songs and more)
+## How to install other plugin 
 
 1.	Click on ‘USER TOOLS’
 2.	Click on ‘INSTALLATIONS’
@@ -571,8 +571,8 @@ Click on the music icon on where ‘S-Processor 0.7’ is located
 ---
 
 ## NEW TERM
-How to prepare school for new term
-This option will upgrade the fees for all students in the school.  This means, those fully paid will be given new term fees to pay as new. 
+## How to prepare school for new term
+NOTE: This option will upgrade the fees for all students in the school.  This means, those fully paid will be given new term fees to pay as new. 
 And those not, their fees left will be added up with new term fees to pay as new.
 
 1.	Click on ‘ACCOUNTING’
@@ -584,7 +584,7 @@ And those not, their fees left will be added up with new term fees to pay as new
 ---
 
 ## How to prepare class for new term
-This option will upgrade the fees for all students in the class.  This means, those fully paid will be given new term fees to pay as new. 
+NOTE: This option will upgrade the fees for all students in the class.  This means, those fully paid will be given new term fees to pay as new. 
 And those not, their fees left will be added up with new term fees to pay as new.
 
 1.	Click on ‘ACCOUNTING’
@@ -792,11 +792,6 @@ NOTE: THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
 7.	Click on ‘< Previous’ to select new class for another display
 
 
-
-
-
-
-
 ---
 
 ## How to generate feeding and bus fees sheet for daily collection
@@ -808,11 +803,6 @@ NOTE: THIS OPTION WILL NOT ALLOW YOU TO CHANGE ANYTHING
 5.	Click on ‘Print’ to print display
 6.	Click on ‘Home’ to return to the main dashboard
 7.	Click on ‘< Previous’ to select new class for another display
-
-
-
-
-
 
 
 ---
@@ -917,40 +907,38 @@ MOVING CHANGED TITLE
 
 
 
+---
 
+## CHECKING FEES 
 
-
-
-
-CHECKING FEES 
-
-How to check all students fully paid in the school
+## How to check all students fully paid in the school
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW ALL FEES’
 3.	Click on ‘SHOW ALL FEES FULLY PAID’
 
 
+---
 
-
-How to check all students not fully paid in the school
+## How to check all students not fully paid in the school
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW ALL FEES’
 3.	Click on ‘SHOW ALL FEES NOT FULLY PAID’
 
 
+---
 
-
-How to check all students not paid in the school
+## How to check all students not paid in the school
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW ALL  FEES’
 3.	Click on ‘SHOW ALL FEES NOT PAID’
 
 
+---
 
-How to check all students paying date in the school
+## How to check all students paying date in the school
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW ALL  FEES’
@@ -959,12 +947,11 @@ How to check all students paying date in the school
 
 
 
+---
 
+## CHECKING FEES PER CLASS
 
-
-CHECKING FEES PER CLASS
-
-How to check all students fully paid per class
+## How to check all students fully paid per class
 
 1.	Click ON ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -973,7 +960,9 @@ How to check all students fully paid per class
 
 
 
-How to check all students not fully paid per class
+---
+
+## How to check all students not fully paid per class
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -982,7 +971,9 @@ How to check all students not fully paid per class
 
 
 
-How to check all students not paid per class
+---
+
+## How to check all students not paid per class
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -993,7 +984,9 @@ How to check all students not paid per class
 
 
 
-How to check all students paying date per class
+---
+
+## How to check all students paying date per class
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -1002,16 +995,12 @@ How to check all students paying date per class
 
 
 
+---
+
+## CHECKING FEES PER STUDENT
 
 
-
-
-
-
-CHECKING FEES PER STUDENT
-
-
-How to check all fees fully paid per student
+## How to check all fees fully paid per student
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW  FEES PER CLASS’
@@ -1020,9 +1009,9 @@ How to check all fees fully paid per student
 5.	Click on the name of your preferred student
 
 
+---
 
-
-How to check all fees not fully paid per student
+## How to check all fees not fully paid per student
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -1030,10 +1019,9 @@ How to check all fees not fully paid per student
 4.	Click on ‘SHOW STUDENTS NOT FULLY PAID’
 5.	Click on the name of your preferred student
 
+---
 
-
-
-How to check all fees not paid per student
+## How to check all fees not paid per student
 
 1.	Click on ‘ACCOUNTING’
 2.	Click on ‘SHOW FEES PER CLASS’
@@ -1044,16 +1032,9 @@ How to check all fees not paid per student
 
 
 
+---
 
-
-
-
-
-
-
-
-
-MAKING NEW TERM FOR ANOTHER FEES 
+## MAKING NEW TERM FOR ANOTHER FEES 
 
 How to empty student’s fees only fully paid in the whole school
 
@@ -1063,10 +1044,9 @@ How to empty student’s fees only fully paid in the whole school
 4.	A pop-up will show, click on ‘OK’
 
 
+---
 
-
-
-How to empty student’s fees only fully paid per class
+## How to empty student’s fees only fully paid per class
 
 1.	Click on ‘accounting’
 2.	Click on EMPTY FEES PAID’
@@ -1076,13 +1056,11 @@ How to empty student’s fees only fully paid per class
 
 
 
+---
 
+## FEES REMINDER
 
-
-
-FEES REMINDER
-
-How to generate fees reminder for students in the school
+## How to generate fees reminder for students in the school
 
 1.	Click on ACCOUNTING
 2.	Click on SHOW FEES REMINDER

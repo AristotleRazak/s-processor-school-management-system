@@ -347,7 +347,7 @@ Read the full user manual here: [User Manual](USAGE_GUIDE.md)
 
 ## 📘 Training Manual
 
-Read the full user manual here: [User Manual](TRAINING_MANUAL.md)
+Try the full Training manual here: [Training Manual](TRAINING_MANUAL.md)
 ---
 
 

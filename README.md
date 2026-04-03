@@ -335,7 +335,7 @@ function detectAnomalies(student) {
 
 Developer: Aristo Embedded Software Development Consortium
 
-GitHub: [https://github.com/your-username](https://github.com/AristotleRazak)
+GitHub: [Read More](https://github.com/AristotleRazak)
 
 
 ---

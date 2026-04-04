@@ -218,7 +218,7 @@ Steps:
 ## 12. Aggregation & Performance
 
 ### Performance Per Subject
-1. School Examination → Aggregation Board
+1. School Examination → Check School Exams → Aggregation Board
 2. Select subject(s) and class
 
 ### Performance Between Classes
@@ -250,6 +250,7 @@ Steps:
 - H: Move forward
 - G: Move backward
 - Ctrl + F: Search
+- Ctrl + M: Mute Sound, click again to unmute
 - F5: Refresh
 
 ---

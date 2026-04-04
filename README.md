@@ -1,5 +1,5 @@
 # s-processor-school-management-system(SP-SMS)
-S-Processor(SP) is a school management and accounting system that simplifies fee tracking, generates student reports, and provides AI-powered remarks.
+S-Processor(SPs) is a school management and accounting system that simplifies fee tracking, generates student reports, and provides AI-powered remarks.
 
 OR
 

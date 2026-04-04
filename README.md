@@ -82,20 +82,20 @@ The S-Processor dashboard provides quick access to all core modules of the syste
 💡 Designed for simplicity — users can navigate the system without technical knowledge.
 
 ---
-
+## Home Dashboard
 ![Dashboard](dashboard_2.png)
 
 ---
-
+## Accounting Dashboard
 ![Accounting](accounting_dashboard.png)
 
 ---
-
+## Report Display
 ![Reports](report.jpeg)
 
 
 ---
-
+## S-Processor logo
 ![S-Processor logo](S-Processor_logo.png)
 
 

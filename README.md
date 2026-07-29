@@ -206,13 +206,16 @@ Q: Who can use S-Processor?
 A: Schools, teachers, and administrators managing student data and finances.
 
 Q: Does it require internet?
-A: Depends on deployment (local or cloud-based) but can work 85% completely offline.
+A: SP depends on the machine's local storage to keep data not cloud storage so can work 90% completely offline. The 10% works for making upgrades and other developments
 
 Q: Can AI remarks be customized?
 A: Yes, developers can modify the logic or integrate advanced AI.
 
----
 
+Q: How can I customize my own school documents for report, student transcripts, reminder, receipt, payment statement in SP and use?
+A: Yes it is possible, but only the industry builds the documents with developers and  supply to the school using S-processor that quested for it.
+
+---
 
 ### 🧩 1. Detect Unpaid Students
 ✅ Logic

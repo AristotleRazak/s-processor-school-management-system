@@ -206,19 +206,24 @@ Q: Who can use S-Processor?
 A: Schools, teachers, and administrators managing student data and finances.
 
 Q: Does it require internet?
+
 A: SP depends on the machine's local storage to keep data not cloud storage so can work 90% completely offline. The 10% works for making upgrades and other developments
 
 Q: Can AI remarks be customized?
+
 A: Yes, developers can modify the logic or integrate advanced AI.
 
 
 Q: How can I customize my own school documents for report, student transcripts, reminder, receipt, payment statement in SP and use?
+
 A: Yes it is possible, but only the industry builds the documents with developers and  supply to the school using S-processor that quested for it.
 
 Q: How do I contact the industry?
+
 A: You can't contact the industry right away, Just call "0244997949" from Ghana for help.
 
 Q: How do I connect the industry online? 
+
 A: Connect "xman39140@gmail.com" on email to speak with the agents online 
 
 0244997949

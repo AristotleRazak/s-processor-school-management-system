@@ -215,6 +215,14 @@ A: Yes, developers can modify the logic or integrate advanced AI.
 Q: How can I customize my own school documents for report, student transcripts, reminder, receipt, payment statement in SP and use?
 A: Yes it is possible, but only the industry builds the documents with developers and  supply to the school using S-processor that quested for it.
 
+Q: How do I contact the industry?
+A: You can't contact the industry right away, Just call "0244997949" from Ghana for help.
+
+Q: How do I connect the industry online? 
+A: Connect "xman39140@gmail.com" on email to speak with the agents online 
+
+0244997949
+xman39140@gmail.com
 ---
 
 ### 🧩 1. Detect Unpaid Students

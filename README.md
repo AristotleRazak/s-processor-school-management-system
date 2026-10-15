@@ -117,18 +117,6 @@ s-processor will automatically:
 - 🚨 Flag unusual payments (too low / too high)
 - 📅 Show daily, weekly, monthly trends
 
-
----
-
-  ### 🛠️ Tech Stack
-
-- Frontend: (e.g., React / HTML / CSS / JavaScript)
-- Backend: (e.g., Node.js / Express)
-- Database: (e.g., MongoDB / MySQL)
-- AI Integration: (e.g., OpenAI API or custom logic)
-- Other Tools: Git, REST APIs
-
-
 ---
 
 ### 💰 Accounting & Fee Management
@@ -207,7 +195,7 @@ A: Schools, teachers, and administrators managing student data and finances.
 
 Q: Does it require internet?
 
-A: SP depends on the machine's local storage to keep data not cloud storage so can work 90% completely offline. The 10% works for making upgrades and other developments
+A: SP depends on the machine's local storage to keep data not cloud storage so can work 100% completely offline. 
 
 Q: Can AI remarks be customized?
 
@@ -290,8 +278,6 @@ Helps school know financial health
 function getTodayPayments(students, todayDate) {
   return students.filter(student => student.lastPaymentDate === todayDate);
 }
-```
-
 ---
 
 ### 💡 Insight

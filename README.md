@@ -43,8 +43,10 @@ S-Processor means School Processor(School Processing System) in short SP.
 💡 Reduces manual errors in financial records
 
 🤖 Generates intelligent student report comments using AI
-
-
+---
+### 💰 S-processor price in the Market 
+- GHS 6000.00
+- Arrangement can be made for part payments
 ---
 
 ### 🚀 Features
